@@ -2,7 +2,7 @@
 
 Calcsy is a sleek, dark-themed calculator built using Java Swing. It provides basic to intermediate arithmetic operations with an intuitive user interface. Ideal for everyday calculations, this desktop application combines functionality with a modern design.
 
-![Calculator Preview](https://via.placeholder.com/350x500/333333/FFFFFF?text=Calcsy+Preview)  
+![Calcsy Preview](https://github.com/user-attachments/assets/0be98334-126d-4a49-b1df-e95c94b49abd)
 *(Replace with an actual screenshot of your application)*
 
 ## Features
@@ -29,3 +29,4 @@ Calcsy is a sleek, dark-themed calculator built using Java Swing. It provides ba
 1. **Compile the Code**:  
    ```bash
    javac Calcsy.java
+
